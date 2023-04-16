@@ -1,0 +1,11 @@
+C:\Users\noeln\OneDrive\Dokumen\College\Take Home Ass MOVIE\Take Home Ass MOVIE\bin\Debug\Take Home Ass MOVIE.exe.config
+C:\Users\noeln\OneDrive\Dokumen\College\Take Home Ass MOVIE\Take Home Ass MOVIE\bin\Debug\Take Home Ass MOVIE.exe
+C:\Users\noeln\OneDrive\Dokumen\College\Take Home Ass MOVIE\Take Home Ass MOVIE\bin\Debug\Take Home Ass MOVIE.pdb
+C:\Users\noeln\OneDrive\Dokumen\College\Take Home Ass MOVIE\Take Home Ass MOVIE\obj\Debug\Take Home Ass MOVIE.csproj.AssemblyReference.cache
+C:\Users\noeln\OneDrive\Dokumen\College\Take Home Ass MOVIE\Take Home Ass MOVIE\obj\Debug\Take Home Ass MOVIE.csproj.SuggestedBindingRedirects.cache
+C:\Users\noeln\OneDrive\Dokumen\College\Take Home Ass MOVIE\Take Home Ass MOVIE\obj\Debug\Take_Home_Ass_MOVIE.Form1.resources
+C:\Users\noeln\OneDrive\Dokumen\College\Take Home Ass MOVIE\Take Home Ass MOVIE\obj\Debug\Take_Home_Ass_MOVIE.Properties.Resources.resources
+C:\Users\noeln\OneDrive\Dokumen\College\Take Home Ass MOVIE\Take Home Ass MOVIE\obj\Debug\Take Home Ass MOVIE.csproj.GenerateResource.cache
+C:\Users\noeln\OneDrive\Dokumen\College\Take Home Ass MOVIE\Take Home Ass MOVIE\obj\Debug\Take Home Ass MOVIE.csproj.CoreCompileInputs.cache
+C:\Users\noeln\OneDrive\Dokumen\College\Take Home Ass MOVIE\Take Home Ass MOVIE\obj\Debug\Take Home Ass MOVIE.exe
+C:\Users\noeln\OneDrive\Dokumen\College\Take Home Ass MOVIE\Take Home Ass MOVIE\obj\Debug\Take Home Ass MOVIE.pdb
